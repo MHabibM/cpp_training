@@ -30,7 +30,6 @@ int main (){
 	cout << "Enter the second number" << endl;
 	cin >> y;
 	cout << "choose one of listed operators:\n| * | / | + | - |\n" << endl;
-	fflush(stdout);
 	cin >> oper;
 	cout << endl;
 	switch (oper){
